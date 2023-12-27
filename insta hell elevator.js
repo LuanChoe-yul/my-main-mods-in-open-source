@@ -3,6 +3,7 @@
 @notswaglord
 @luanchoeyul
 */
+
 /*He made a base of what he wanted, I took it, put some things so that it is much better and playable, of course*/
 
 const Main = new NativeClass('Terraria', 'Main');
