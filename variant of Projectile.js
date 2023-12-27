@@ -49,4 +49,4 @@ if (item.type === 2 && Main.GameUpdateCount - ShootDubble1[slot] > 1) {
  }
   });
 
-//Luan and kayna
+//if you use my credits choe yul or Vinícius 
