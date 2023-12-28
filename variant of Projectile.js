@@ -1,5 +1,5 @@
 /* Inspired by Kaynan's code
-created by choe yul / Vinicius */
+created by choe yul / 
 
 
 /* this was the first code created today i have a little better code */
@@ -49,4 +49,4 @@ if (item.type === 2 && Main.GameUpdateCount - ShootDubble1[slot] > 1) {
  }
   });
 
-/* if you use my credits choe yul or Vinícius */
+/* if you use my credits choe yul */
